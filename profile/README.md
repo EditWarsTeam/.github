@@ -24,10 +24,10 @@ This website is part of a project «Edit Wars»‎ that has received funding fro
 
 ## Team
 
-- Alberto Harres, Artist and Developer
-- Antonio Hofmeister Ribeiro, Artist and Developer
+- [Alberto Harres](https://github.com/mneunomne), Artist and Developer
+- [Antonio Hofmeister Ribeiro](https://github.com/antoniohof), Artist and Developer
 - Lucy Saribegyan, Artist and Designer
-- Maiia Guseva, Data Analyst
+- [Maiia Guseva](https://github.com/bobenkom), Data Analyst
 - Slava Romanov, Media Artist, Team Lead
 - Sofya Ozga, Artist and Researcher
 
