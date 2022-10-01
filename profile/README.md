@@ -28,7 +28,7 @@ This website is part of a project «Edit Wars»‎ that has received funding fro
 - [Antonio Hofmeister Ribeiro](https://github.com/antoniohof), Artist and Developer
 - Lucy Saribegyan, Artist and Designer
 - [Maiia Guseva](https://github.com/bobenkom), Data Analyst
-- Slava Romanov, Media Artist, Team Lead
+- [Slava Romanov](https://davinel000.github.io/), Media Artist, Team Lead
 - Sofya Ozga, Artist and Researcher
 
 ## Research Metodology
